@@ -8,3 +8,5 @@
 *.mobile  => Projeto mobile Flutter
 *.backend => Projeto backend Quarkus 
 ```
+
+
